@@ -13,7 +13,7 @@ CCRM is a feature-rich academic management system that demonstrates advanced Jav
 - **Clone the repository**:
 
 ```
-git clone https://github.com/Kratos676/CCRM
+git clone https://github.com/YashDeshpande006/CCRM
 ```
 
 - **Compile & Run**: Open the project in an IDE like Eclipse and run the `edu.ccrm.CampusCourseRecordsManager` class.
